@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  konoha:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-31T04:32:30.863625457Z"
+    description: A Helm chart for Kubernetes
+    digest: d3d044771f38f8d279b3c73f60349c7de5bd7b1d9a27fcec0ebabd9c08284165
+    name: konoha
+    type: application
+    urls:
+    - https://konoha-23.github.io/landmark/konoha-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-12-31T04:32:30.862962128Z"
